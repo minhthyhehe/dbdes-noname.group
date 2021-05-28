@@ -298,7 +298,7 @@
 .sold {
     color: rgba(0, 0, 0, .54);
     font-size: 13px;
-    float: none;
+    float: right;
     display: inline-block;
     padding-right: 5px;
 }
